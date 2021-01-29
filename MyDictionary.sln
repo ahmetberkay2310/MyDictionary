@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyDictionary", "MyDictionar
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP2", "OOP2\OOP2.csproj", "{7C359195-07A1-4081-9DCC-5813EF09E7E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP3", "OOP3\OOP3.csproj", "{0FC2AD26-8BF9-4464-B23F-9F6B59F05DDA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP3", "OOP3\OOP3.csproj", "{0FC2AD26-8BF9-4464-B23F-9F6B59F05DDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameProjectt", "GameProjectt\GameProjectt.csproj", "{E42B379B-931E-46F8-92D7-1D50E49773FC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{0FC2AD26-8BF9-4464-B23F-9F6B59F05DDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0FC2AD26-8BF9-4464-B23F-9F6B59F05DDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0FC2AD26-8BF9-4464-B23F-9F6B59F05DDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E42B379B-931E-46F8-92D7-1D50E49773FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E42B379B-931E-46F8-92D7-1D50E49773FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E42B379B-931E-46F8-92D7-1D50E49773FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E42B379B-931E-46F8-92D7-1D50E49773FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
